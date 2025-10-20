@@ -1,4 +1,4 @@
-# Krampus Minibadge Holder
+# Beelzebub Minibadge Holder
 
 <img src="/images/beelzebub_2.jpg" width="500" />
 
