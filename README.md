@@ -1,16 +1,13 @@
 # Beelzebub Minibadge Holder
 
-<img src="/images/beelzebub_2.jpg" width="500" />
-
-<img src="/images/beelzebub_minibadge_holder_front.png" width="500" />
-
-<img src="/images/beelzebub_minibadge_holder_back.png" width="500" />
-
 These are the instructions for the updated firmware. If you bought the badge BEFORE Saintcon 2026, you have the original firmware (beelzebub_firmware_v1.ino) which only has a handful of LED scenes that shuffle through with a click. If you bought it AT Saintcon 2026 or after, it has the updated firmware (beelzebub_firmware_v2.ino) which includes all of the LED scenes and functionality listed below. I recommend upgrading if you have the old firmware. Feel free to reach out on Discord if you need help upgrading. 
 
 # Beelzebub Minibadge Holder Upgraded Firmware Instructions
 
 *"Maybe Tooday Beelzebub"*
+
+<img src="/images/beelzebub_2.jpg" width="500" />
+
 
 ## Assembly Instructions
 
